@@ -52,14 +52,40 @@ A new object of the _Bicycle_ class can be instantiated using the following line
 
 ## Non-access modifiers
 
+### Static keyword
+
+### Final
+
+Final modifiers are applicable to:
+* Class : A class when set to final __cannot be extended__ by any other class
+* Method : A method when set to final __cannot be overridden__ by any subclass
+* Variable : When a variable is set to final, its value __cannot be changed__. Final variables are like constants.
+
+
+### Abstract
+
+Abstract modifiers are applicable to:
+* Class
+* Method
+
+#### Abstract class
+
 ## Interfaces
 
 ## Polimorphysm
 
 ## Variables
 
+### Local variables
+
+### Instance variables
+
+### Reference variables
+
 ## Constructors
 
-## Package
+## Packages
+
+## String class
 
 
