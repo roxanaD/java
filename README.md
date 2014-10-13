@@ -70,6 +70,15 @@ Abstract modifiers are applicable to:
 
 #### Abstract class
 
+* An abstract class can have abstract methods.
+* A class can also be an abstract class without having any abstract methods in it. 
+* If a class has an abstract method, the class becomes an abstract class.
+
+#### Abstract methods
+
+* Abstract methods do not have an implementation.
+* Abstract methods have only a signature (they don't have body).
+
 ## Interfaces
 
 ## Polimorphysm
