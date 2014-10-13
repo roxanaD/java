@@ -135,4 +135,19 @@ Abstract modifiers are applicable to:
 
 ## String class
 
+* The String class represents character strings. All string literals in Java programs, such as “abc”, are implemented as instances of this class.
+* String objects are immutable.
+* How to create:
 
+<!-- language: java -->
+
+    String str = new String(“abc”);
+    String str1 = "abc";
+
+* Important methods of the String class:
+    - length()
+    - charAt(int index)
+    - concat(String str)
+    - contains(CharSequence s)
+    - equals(Object anObject)
+    
