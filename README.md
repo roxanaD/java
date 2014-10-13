@@ -44,7 +44,7 @@ The following is a Java class named _Bicycle_:
     }
     }
 
-A new object of the _Bicycle_ class can be instantiated using the following line: 
+A new object of the _Bicycle_ class can be instantiated using the following statement: 
 
     Bicycle bike = new Bicycle();
     
@@ -80,6 +80,20 @@ Abstract modifiers are applicable to:
 * Abstract methods have only a signature (they don't have body).
 
 ## Interfaces
+* Interfaces can be defined with __interface__ keyword.
+
+<!-- language: java -->
+    public interface MyInterface
+    {
+    int i=0;
+    public void Height(int height);
+    public abstract void setHeight();
+    }
+    
+* All Interface methods are implicitly __public__ and __abstract__.
+* Interfaces can declare only __constants__. Instance variables are not allowed. It means all variables inside an Interface must be __public, static, final__. Variables inside interface are implicitly public static final.
+* Interface methods can not be static.
+* Interface can _extend_ one or more other interface.
 
 ## Polimorphysm
 
