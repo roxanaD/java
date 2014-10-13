@@ -56,7 +56,7 @@ A new object of the _Bicycle_ class can be instantiated using the following stat
 * When set to __public__, the given class will be accessible to all the classes available in Java world.
 * When set to __default__, the given class will be accessible to the classes which are defined in the __same package__.
 
-<img src="access_modifiers_class.png" width="350" height="100">
+<img src="resources/access_modifiers_class.png" width="350" height="100">
 
 ### Access modifiers for variable
 
@@ -66,7 +66,7 @@ A new object of the _Bicycle_ class can be instantiated using the following stat
 * If a variable is set to __protected__ inside a class, it will be accessible from its sub classes defined in the same or different package only via Inheritance.
 * A variable if defined __private__ will be accessible only from within the class it is defined.
 
-<img src="access_modifiers_variables.png" width="500" height="250">
+<img src="resources/access_modifiers_variables.png" width="500" height="250">
 
 ### Access modifiers for method
 
@@ -76,7 +76,7 @@ A new object of the _Bicycle_ class can be instantiated using the following stat
 * If a method is set to __protected__ inside a class, it will be accessible from its sub classes defined in the same or different package.
 * A method if defined __private__ will be accessible only from within the class it is defined. 
 
-<img src="access_modifiers_methods.png" width="500" height="250">
+<img src="resources/access_modifiers_methods.png" width="500" height="250">
 
 ## Non-access modifiers
 
