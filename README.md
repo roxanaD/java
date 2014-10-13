@@ -155,3 +155,8 @@ Abstract modifiers are applicable to:
     - contains(CharSequence s)
     - equals(Object anObject)
     
+
+## References
+
+* [http://docs.oracle.com/javase/tutorial/java/](http://docs.oracle.com/javase/tutorial/java/)
+* [http://javabeginnerstutorial.com/core-java/](http://javabeginnerstutorial.com/core-java/)
