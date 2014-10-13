@@ -50,6 +50,30 @@ A new object of the _Bicycle_ class can be instantiated using the following stat
     
 ## Access modifiers
 
+### Access modifiers for class
+
+* Classes in Java can use only __public__ and __default__ access modifiers.
+* When set to __public__, the given class will be accessible to all the classes available in Java world.
+* When set to __default__, the given class will be accessible to the classes which are defined in the __same package__.
+
+### Access modifiers for variable
+
+* Variables in Java can use the following access modifiers: __default__, __private__, __protected__, __public__.
+* If a variable is set to __default__, it will be accessible to the classes which are defined in the same package. 
+* If a variable is set to __public__ it can be accessible from any class available in the Java world.
+* If a variable is set to __protected__ inside a class, it will be accessible from its sub classes defined in the same or different package only via Inheritance.
+* A variable if defined __private__ will be accessible only from within the class it is defined.
+
+### Access modifiers for method
+
+* Methods in Java can use the following access modifiers: __default__, __private__, __protected__, __public__.
+* When a method is set to __default__ it will be accessible to the class which are defined in the same package.
+* When a method is set to __public__ it will be accessible from any class available in the Java world.
+* If a method is set to __protected__ inside a class, it will be accessible from its sub classes defined in the same or different package.
+* A method if defined __private__ will be accessible only from within the class it is defined. 
+
+<img src="access_modifiers_methods.png" width="100" height="100">
+
 ## Non-access modifiers
 
 ### Static keyword
