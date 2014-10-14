@@ -54,7 +54,7 @@ A new object of the _Bicycle_ class can be instantiated using the following stat
     - Member variables in a class—these are called __fields__.
     - Variables in a method or block of code—these are called __local variables__.
     - Variables in method declarations—these are called __parameters__.
-
+    - Variables which are defined without the _static_ keyword  and are _outside any method declaration_ are object specific and are known as __instance variables__.
 
 ### Local variables
 
