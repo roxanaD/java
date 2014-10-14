@@ -63,6 +63,11 @@ A new object of the _Bicycle_ class can be instantiated using the following stat
 
 ### Instance variables
 
+* Can use any of the four access level
+* Can be marked final
+* Can be marked abstract
+* Can not be marked static
+
 ### Reference variables
 
 ## Constructors
