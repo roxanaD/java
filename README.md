@@ -48,6 +48,27 @@ A new object of the _Bicycle_ class can be instantiated using the following stat
 
     Bicycle bike = new Bicycle();
     
+## Variables
+
+* There are several kinds of variables:
+    - Member variables in a class—these are called __fields__.
+    - Variables in a method or block of code—these are called __local variables__.
+    - Variables in method declarations—these are called __parameters__.
+
+
+### Local variables
+
+* __Final__ is the _Only Non Access Modifier_ that can be applied to a local variable.
+* Local variables are not assigned a default value, hence they __need to be initialized__.
+
+### Instance variables
+
+### Reference variables
+
+## Constructors
+
+## Packages
+
 ## Access modifiers
 
 ### Access modifiers for class
@@ -140,18 +161,6 @@ Abstract modifiers are applicable to:
 * Interface can _extend_ one or more other interface.
 
 ## Polimorphysm
-
-## Variables
-
-### Local variables
-
-### Instance variables
-
-### Reference variables
-
-## Constructors
-
-## Packages
 
 ## String class
 
