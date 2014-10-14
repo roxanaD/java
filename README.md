@@ -82,6 +82,22 @@ A new object of the _Bicycle_ class can be instantiated using the following stat
 
 ### Static keyword
 
+* Applicable to:
+    - method
+    - variable
+    - class nested within another class
+    - initialization block
+* Not applicable to:
+    - class (not nested)
+    - constructor
+    - interfaces
+    - inner class methods
+    - instance variables
+    - local variables
+* Variables/methods having the __static__ keyword are common to all objects. 
+* Fields that have the static modifier in their declaration are called __static fields__ or __class variables__. They are associated with the class, rather than with any object. 
+* Any object can change the value of a class variable, but class variables can also be manipulated without creating an instance of the class.
+
 ### Final
 
 Final modifiers are applicable to:
