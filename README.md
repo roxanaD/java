@@ -173,6 +173,21 @@ Abstract modifiers are applicable to:
 * Interface methods can not be static.
 * Interface can _extend_ one or more other interface.
 
+## Control Flow Statements
+
+* Decision-making statements:
+    - if-then 
+    - if-then-else 
+    - switch
+* Looping statements:
+    - for
+    - while 
+    - do-while
+* Branching statements:
+    - break
+    - continue
+    - return
+
 ## Polimorphysm
 
 * Subclasses of a class can define their own unique behaviors and yet share some of the same functionality of the parent class.
