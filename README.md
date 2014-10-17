@@ -90,7 +90,7 @@ A new object of the _Bicycle_ class can be instantiated using the following stat
 * When set to __public__, the given class will be accessible to all the classes available in Java world.
 * When set to __default__, the given class will be accessible to the classes which are defined in the __same package__.
 
-<img src="resources/access_modifiers_class.png" width="350" height="100">
+<img src="resources/access_modifiers_class.png" width="380" height="130">
 
 ### Access modifiers for variable
 
