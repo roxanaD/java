@@ -175,6 +175,9 @@ Abstract modifiers are applicable to:
 
 ## Polimorphysm
 
+* Subclasses of a class can define their own unique behaviors and yet share some of the same functionality of the parent class.
+* [http://docs.oracle.com/javase/tutorial/java/IandI/polymorphism.html] (http://docs.oracle.com/javase/tutorial/java/IandI/polymorphism.html)
+
 ## String class
 
 * The String class represents character strings. All string literals in Java programs, such as “abc”, are implemented as instances of this class.
