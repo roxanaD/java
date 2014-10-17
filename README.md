@@ -76,6 +76,12 @@ A new object of the _Bicycle_ class can be instantiated using the following stat
 
 ## Packages
 
+* The package statement MUST be the first line in the source file.
+* There can be only one package statement in each source file.
+* Package names are written in all lower case to avoid conflict with the names of classes or interfaces.
+* Package names can contain underscores.
+* Companies use their reversed Internet domain name to begin their package names—for example, com.example.mypackage for a package named mypackage created by a programmer at example.com.
+
 ## Access modifiers
 
 ### Access modifiers for class
